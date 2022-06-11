@@ -13,4 +13,4 @@ Motivate International Inc. has made the data available under the terms of this 
 In addition, the data on cyclists can be found in the link. https://www.divvybikes.com/system-data
 
 The data presented was arranged within month and was thought to be reliable because it had been collected and published by the organization.
-
+There were a few discrepancies in the statistics.
