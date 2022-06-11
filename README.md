@@ -12,3 +12,5 @@ The goal is to establish the optimal marketing strategy for converting casual ri
 Motivate International Inc. has made the data available under the terms of this license link. https://ride.divvybikes.com/data-license-agreement 
 In addition, the data on cyclists can be found in the link. https://www.divvybikes.com/system-data
 
+The data presented was arranged within month and was thought to be reliable because it had been collected and published by the organization.
+
